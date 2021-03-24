@@ -13,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.10.6.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.70264400",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -57,6 +57,20 @@
     "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "TC002.xaml",
+      "uniqueId": "258fef71-a09b-4c0f-bf9c-ef8c0d6da6ee",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "TC001.xaml",
+      "uniqueId": "8659e4b3-a371-4656-be85-0905297a0913",
+      "input": [],
+      "output": []
+    }
+  ],
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {}
